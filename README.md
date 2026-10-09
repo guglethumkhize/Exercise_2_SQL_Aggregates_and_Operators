@@ -1,0 +1,1 @@
+# Exercise_2_SQL_Aggregates_and_Operators
